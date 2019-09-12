@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor-hh-xhh",
+  "name": "@hh.ru/ckeditor-hh-xhh",
   "version": "1.0.0",
   "description": "ckeditor custom build for xhh service",
   "main": "ckeditor/ckeditor.js",
