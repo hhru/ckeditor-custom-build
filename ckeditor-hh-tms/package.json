@@ -1,6 +1,6 @@
 {
-  "name": "ckeditor-hh-tms",
-  "version": "2.0.0",
+  "name": "@hh.ru/ckeditor-hh-tms",
+  "version": "2.1.0",
   "description": "'ckeditor custom build for tms hh app'",
   "main": "ckeditor/ckeditor.js",
   "author": "Nikita Mostovoy <nik.mostovoy@gmail.com> (https://hh.ru)"
