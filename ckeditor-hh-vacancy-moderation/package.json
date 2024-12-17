@@ -1,0 +1,7 @@
+{
+  "name": "@hh.ru/ckeditor-hh-xhh",
+  "version": "1.2.0",
+  "description": "ckeditor custom build for xhh service",
+  "main": "ckeditor/ckeditor.js",
+  "author": "Vitaly Vasin <vitaly.n.vasin@gmail.com> (https://hh.ru)"
+}
